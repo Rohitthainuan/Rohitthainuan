@@ -1,8 +1,8 @@
 <!-- Profile README for @Rohitthainuan -->
 
-<h1 align="center">Hi there, I'm Rohit! 👋</h1>
+<h1 align="center">Hi there, I'm Rohit Kumar ! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on web development, automation, and open source.
 - 🌱 Always learning—exploring AI and cloud platforms.
-- 💬 Ask me about JavaScript, Python, GitHub Actions, or anything tech!
+- 💬 Ask me about JavaScript, Java, GitHub Actions, or anything tech!
 - 🥅 2025 Goals: Contribute to open source, learn Rust, and expand my network.
 
 ---
@@ -19,7 +19,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,html,css,git,github,linux,docker,aws" />
 </p>
 
 ---
@@ -45,8 +45,8 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.rohitthainuan90@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.www.linkedin.com/in/rohit-kumar-291073248.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
