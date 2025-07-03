@@ -9,12 +9,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on web development, automation, and open source.
-- 🌱 Always learning—exploring AI and cloud platforms.
-- 💬 Ask me about JavaScript, Java, GitHub Actions, or anything tech!
-- 🥅 2025 Goals: Contribute to open source, learn Rust, and expand my network.
+I’m a passionate MCA student who loves to build full-stack web applications and desktop software using Java, HTML, CSS, JavaScript, and Bootstrap. I also work with MySQL and MongoDB for managing back-end systems.
 
----
+I've developed several academic and personal projects, including:
+- 🎓 **Advance College Management System** (Java Swing + MySQL)
+- 🌐 **Online Portfolio Website** (HTML, CSS, JS, Bootstrap)
+
+> I believe in continuous learning, clean code practices, and collaboration to create impactful software.
+
+---02
 
 ## 🛠️ Skills & Tools
 
@@ -42,22 +45,12 @@
 
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:your.rohitthainuan90@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.www.linkedin.com/in/rohit-kumar-291073248.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohitthainuan&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+📫 Let's Connect!
+🔗 LinkedIn
+📧 rohitthainuan90@gmail.com
+🌐 My Portfolio Website
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for collaborations or internships. 
 
 <!-- Replace contact links and info above with your own details! -->
