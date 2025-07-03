@@ -46,11 +46,14 @@ I've developed several academic and personal projects, including:
 ---
 
 
+## 📫 Let's Connect!
 
-📫 Let's Connect!
-🔗 LinkedIn
-📧 rohitthainuan90@gmail.com
-🌐 My Portfolio Website
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for collaborations or internships. 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-291073248)  
+- 📧 rohitthainuan90@gmail.com  
+- 🌐 [My Portfolio Website](https://rohitthainuan.github.io/Rohit-Portfolio/)  
+
+---
+
+*Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for collaborations or internships.*
 
 <!-- Replace contact links and info above with your own details! -->
