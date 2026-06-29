@@ -13,7 +13,7 @@ I’m a passionate MCA student who loves to build full-stack web applications an
 
 I've developed several academic and personal projects, including:
 - 🎓 **Advance College Management System** (Java Swing + MySQL)
-- 🌐 **Online Portfolio Website** (HTML, CSS, JS, Bootstrap)
+- 🌐 **Online Portfolio Website** (HTML, CSS, JavaScript)
 
 > I believe in continuous learning, clean code practices, and collaboration to create impactful software.
 
@@ -50,7 +50,7 @@ I've developed several academic and personal projects, including:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-291073248)  
 - 📧 rohitthainuan90@gmail.com  
-- 🌐 [My Portfolio Website](https://rohitthainuan.github.io/Rohit-Portfolio/)  
+- 🌐 [My Portfolio Website](https://rohitthainuan.github.io/codewithrohit/)  
 
 ---
 
